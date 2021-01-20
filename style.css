@@ -14,12 +14,14 @@ body {
   margin: 2vw auto;
   font-size: 25px;
   padding: 1vw;
+  resize: none;
 }
 #txtoutput {
   width: 100%;
   margin: 2vw auto;
   font-size: 25px;
   padding: 1vw;
+  resize: none;
 }
 .btn-lg {
   background-color: rgb(238, 206, 61);
